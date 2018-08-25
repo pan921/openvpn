@@ -1,0 +1,1 @@
+nohup /usr/local/sbin/openvpn --config /etc/openvpn/server.conf &
